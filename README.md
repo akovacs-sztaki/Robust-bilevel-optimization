@@ -1,4 +1,4 @@
-Robust bilevel optimization
+*Robust bilevel optimization*
 
 
 The repository contains problem instances and corresponding results for robust bilevel optimization. Two applications are considered: demand response management [1] and toll setting in networks [2]. The problem instances were used in computational experiemnts in the following papers:
